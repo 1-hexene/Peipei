@@ -17,7 +17,7 @@
     <string name="menu_about">关于</string>
 
     <string name="about_copyright">©2021 Peipei Team. All rights reserved.</string>
-    <string name="about_item_homepage">访问官网</string>
+    <string name="about_item_homepage">访问Github仓库</string>
     <string name="about_item_author_github">关于作者</string>
     <string name="about_item_donation_link">捐赠作者</string>
     <string name="about_item_add_qq_group">QQ交流群</string>
